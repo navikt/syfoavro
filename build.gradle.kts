@@ -39,7 +39,7 @@ subprojects {
     }
 
     dependencies {
-        implementation("org.apache.avro:avro:1.9.0")
+        implementation("org.apache.avro:avro:1.8.2")
     }
 
     configure<NexusPublishExtension> {
