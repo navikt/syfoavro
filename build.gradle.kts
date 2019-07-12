@@ -10,7 +10,7 @@ plugins {
     java
     `maven-publish`
     signing
-    id("com.commercehub.gradle.plugin.avro") version "0.17.0" apply false
+    id("com.commercehub.gradle.plugin.avro") version "0.16.0" apply false
     id("io.codearte.nexus-staging") version "0.21.0"
     id("de.marcphilipp.nexus-publish") version "0.2.0" apply false
 }
