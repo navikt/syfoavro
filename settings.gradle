@@ -11,3 +11,4 @@ pluginManagement {
 
 rootProject.name = 'syfoavro'
 include 'syfosmoppgave-avro'
+include 'dok-journalfoering-hendelse-v1'
